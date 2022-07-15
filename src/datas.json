@@ -1,0 +1,94 @@
+{
+      "models":  [
+        {
+          "id": 1,
+          "title": "Uy hayvonlari",
+          "image": [
+            {
+              "src": "https://cdn.vuetifyjs.com/images/carousel/squirrel.jpg"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Mashinalar",
+          "image": [
+            {
+              "src": "https://cdn.vuetifyjs.com/images/carousel/bird.jpg"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Uy hayvonlari",
+          "image": [
+            {
+              "src": "https://cdn.vuetifyjs.com/images/carousel/sky.jpg"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Mashinalar",
+          "image": [
+            {
+              "src": "https://cdn.vuetifyjs.com/images/carousel/planet.jpg"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Uy hayvonlari",
+          "image": [
+            {
+              "src": "https://cdn.vuetifyjs.com/images/carousel/squirrel.jpg"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "title": "Uy hayvonlari",
+          "image": [
+            {
+              "src": "https://cdn.vuetifyjs.com/images/carousel/squirrel.jpg"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "title": "Mashinalar",
+          "image": [
+            {
+              "src": "https://cdn.vuetifyjs.com/images/carousel/squirrel.jpg"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "title": "Uy hayvonlari",
+          "image": [
+            {
+              "src": "https://cdn.vuetifyjs.com/images/carousel/squirrel.jpg"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "title": "Mushuklar",
+          "image": [
+            {
+              "src": "https://cdn.vuetifyjs.com/images/carousel/squirrel.jpg"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "title": "Sherlar",
+          "image": [
+            {
+              "src": "https://cdn.vuetifyjs.com/images/carousel/squirrel.jpg"
+            }
+          ]
+        }
+      ]
+}
